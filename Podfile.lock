@@ -1,0 +1,21 @@
+PODS:
+  - NetTool (0.1.0)
+
+DEPENDENCIES:
+  - NetTool (from `Lib/NetTool`)
+
+EXTERNAL SOURCES:
+  NetTool:
+    :git: Lib/NetTool
+
+CHECKOUT OPTIONS:
+  NetTool:
+    :commit: c39a9762354c137eb2bf6c2227ff19077e43ace0
+    :git: Lib/NetTool
+
+SPEC CHECKSUMS:
+  NetTool: 08a27ccbbfb6aa22be50e17849da184fe0bc328b
+
+PODFILE CHECKSUM: d5f24572b3bec51c42d9d9bda5981a56483365c5
+
+COCOAPODS: 1.8.3

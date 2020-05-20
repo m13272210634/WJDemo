@@ -1,0 +1,6 @@
+framework module Pods_WJDemo {
+  umbrella header "Pods-WJDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

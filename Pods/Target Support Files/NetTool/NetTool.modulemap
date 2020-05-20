@@ -1,0 +1,6 @@
+framework module NetTool {
+  umbrella header "NetTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
